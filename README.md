@@ -1,6 +1,5 @@
 # Multilingual-Speech-Vector-Similarity-using-ONNX
 
-# Multilingual Speech Embedding using ONNX
 
 This repository demonstrates how to convert a **multilingual sentence-transformer model** into the **ONNX format** for efficient inference and deployment in **resource-constrained environments** like mobile or edge devices.
 
